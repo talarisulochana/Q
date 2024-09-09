@@ -1,0 +1,21 @@
+img{
+    width:300px;
+    top:100px;
+    left:100px;
+    position:absolute;
+    /*height:300px;
+    border-radius:70px;
+    transition-property: all;
+    transition-duration: 4s;
+    transition: all 4s ease 2s;
+    */
+    transition: all 2s ease;
+}
+img:hover{
+transform:translatey(400px);
+/*margin-top:10rem;
+margin-left:100px;
+border-radius:50%;
+border:5px solid red;
+box-shadow:10px 13px 10px black;*/
+}

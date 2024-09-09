@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+header{
+    background-color: gray;
+}
+.S{
+    position: relative;
+    height: 100vh;
+    background: url(./SAX.jpg);
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    padding: 30px;
+}
+.X{
+    float: right;
+    font-size: 30px;
+}

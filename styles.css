@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: left;
+    font-style:italic;
+}
+.S{
+    float: right;
+    
+}
+div {
+    text-align: center;
+}
+.Q{
+    
+     text-align: center;
+          
+    }
+
+
+

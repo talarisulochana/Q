@@ -1,0 +1,30 @@
+
+.D{
+    padding: 10px;
+}
+
+.Q{
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+.R{
+    background-color: aquamarine;
+    border-radius: 12px;
+}
+a{
+    float: right;
+
+}
+.R{
+    float: right;
+}
+.V{
+    float: left;
+}
+button{
+    padding: 5px;
+    border-radius: 10px;
+}
+.C{float: left;
+color: red;}

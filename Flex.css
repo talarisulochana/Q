@@ -1,0 +1,87 @@
+
+h1{
+    color: white;
+}
+
+#B {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    font-size: 14px;
+    height: 280px;
+    color: black;
+    margin: 20px;
+    width: 20%;
+    justify-items: center;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+h2{
+    color: gold;
+}
+a{
+    color: blue;
+}
+
+
+
+.S {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    font-size: 14px;
+    height: 300px;
+    color: black;
+    margin: 20pxS;
+    width: 20%;
+    justify-items: center;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    float: left;
+    padding: 40px;
+    border-radius: 10px;
+    position: sticky;
+
+}
+
+.E {
+    display: inline-flexbox;
+    background-color: rgb(253, 252, 252);
+    border: 1px solid;
+    font-size: 14px;
+    height: 280px;
+    color: black;
+    margin: 20px;
+    width: 20%;
+    justify-items: center;
+    text-align: center;
+    box-shadow: 2px 3px 4px;
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+    
+
+}
+button{
+    background-color: blue;
+    margin-top: 0;
+}
+span{
+    font-size: 30px;
+    
+}
+p{color: blue;}
+
+.D{
+    color: blue;
+    font-weight: lighter;
+    font-size: small;
+    margin-top: -40px ;
+    background-color:lawngreen;
+    
+}
+    
